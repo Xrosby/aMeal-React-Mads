@@ -1,0 +1,65 @@
+.current-ingredient{
+    max-width: 30%;
+    max-height: 75%;
+    margin-left: 35%;
+    margin-top: 5%;
+    background-color: rgba(255,255,255,0.7);
+    align-text: center;
+    padding: 0px;
+    border-radius: 6px;
+}
+
+.current-ingredient-container{
+    margin: 0px;
+    padding:0px;
+}
+
+.currentIngredientName{
+    text-align: center;
+}
+
+
+.nutrition-information {
+    text-align: center;
+    font-size: 100%;
+    padding-top: 2%;
+    padding-left: 5%;
+    max-width: 100%;
+    background-color: rgba(255,255,255,0.7);
+}
+
+.current-ingredient-background{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.9);
+}
+
+.back-button-ingredient{
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    background-color: rgba(200,0,0,0.7);
+    margin-top: 0px;
+    padding: 1%;
+    color: white;
+    border: none;
+}
+
+.back-button-ingredient:focus{
+    outline: 0;
+}
+
+
+
+.back-button:focus {
+    outline: 0;
+}
+
+.current-ingredient-header {
+    background-color: rgb(0,65,0);
+    margin: 0px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+}

@@ -1,0 +1,42 @@
+
+.navbar {
+    background-color: rgba(207, 255, 135, 0.9);
+    background-image: none;
+    border: none;
+}
+.navbar-fixed-top {
+    position: absolute !important;
+}
+
+.nav-link {
+    background-color: rgba(207, 255, 135, 0.6);
+    font-size: 30px;
+    color: rgb(4, 135, 0) !important;
+    border-left: 0.5px solid rgb(4, 135, 0);
+    transition: 0.3s;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-left: 0.5px solid rgb(4, 135, 0);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+#nav-header {
+    border: none;
+    background-color: whitesmoke;
+    color: rgb(22, 23, 14) !important;
+}
+#nav-header:hover {
+    color: whitesmoke !important;
+}
+
+.nav-link:hover {
+    background-color: #3f6c45 !important;
+    color: rgba(228, 234, 140, 5) !important;
+}
+
+
+
+

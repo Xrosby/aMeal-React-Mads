@@ -1,0 +1,10 @@
+h1{
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 50px;
+    margin-bottom: 4%;
+}
+
+.recipe-container {
+    margin-left: 0px;
+}

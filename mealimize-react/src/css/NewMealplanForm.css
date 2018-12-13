@@ -1,0 +1,99 @@
+
+.spinner {
+    height: 40px;
+    margin-left: 2%;
+    display: inline !important;
+    background-color: rgba(255,255,255,0.2);
+    border-radius: 5px;
+    font-size: 20px;
+}
+.success-container-cat{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.9);
+}
+
+.mealplan-saved-message{
+    text-align: center;
+}
+.success-img-cat{
+    margin-left: 40%;
+    margin-top: 15%;
+    border-radius: 200px;
+}
+
+
+
+.dice-img{
+    width: 5%;
+    height: 5%;
+    transition: all .2s ease-in-out;
+}
+
+.dice-img:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.save-btn-wrapper{
+    width: 100%;
+    text-align: center;
+}
+
+.btn-save-mealplan{
+    width: 5%;
+    height: 5%;
+    transition: all .2s ease-in-out;
+}
+
+.btn-save-mealplan:hover{
+    transform: scale(1.55);
+    cursor: pointer;
+}
+
+
+.new-mealplan-form-container {
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: 13%;
+    padding-bottom: 2%;
+    max-width: 75%;
+    min-height: 50%;
+    max-height: 80%;
+    background-color: rgba(255,255,255,0.5);
+}
+
+.new-mealplan-form-header {
+    padding-top: 1%;
+    width:100%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+
+.generated-mealplan-container{
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+}
+
+.background-create-mealplan {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.9);
+}
+
+.mealplan-container {
+    max-height: 50%;
+}
+
+.recipe-list {
+    height: 40vh;
+    overflow-y: auto;
+}

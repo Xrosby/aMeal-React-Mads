@@ -1,0 +1,16 @@
+.ingredientList{
+    margin-top: 1%;
+    font-size: 80%;
+}
+
+.ingredientList ul {
+    list-style-type: none;
+}
+
+.amount-span {
+    text-align: center;
+}
+
+.ingredient-item {
+    border-bottom: 1px solid black;
+}

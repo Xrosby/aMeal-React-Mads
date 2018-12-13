@@ -1,0 +1,12 @@
+.recipe-results{
+    padding-left: 0px;
+    width: 80%;
+}
+
+.recipe-result {
+    overflow-y: auto;
+}
+
+.recipe-wrapper {
+    margin-top: 1%;
+}

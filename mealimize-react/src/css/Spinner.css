@@ -1,0 +1,55 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number]:hover {
+    cursor: default;
+}
+
+
+.spinner-container{
+    margin-left:1%;
+    height: 15%;
+    margin-top: 1%;
+    cursor:default;
+}
+
+
+.spinner-button {
+    border: none;
+    height: 40px;
+    padding-top: 0px;
+    font-size: 29px;
+    border-radius: 200px;
+    color: white;
+}
+
+.spinner-add{
+    background-color: green;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.spinner-subtract{
+background-color: darkred;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.spinner-input{
+    text-align: center;
+    width:4%;
+    height: 40px;
+    margin: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    padding-bottom: 1px;
+    font-size: 30px;
+}
+.spinner-button:focus{
+    outline: 0;
+}
+.spinner-button:hover{
+
+}

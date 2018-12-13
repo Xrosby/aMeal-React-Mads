@@ -1,0 +1,27 @@
+.btn-create-mealplan {
+    background-color: rgba(0,0,0,0);
+    border: none;
+    margin-left: 1%;
+}
+.btn-create-mealplan:focus{
+    outline:0;
+}
+
+.material-icons.md-48 {
+    font-size: 48px;
+    color: greenyellow;
+}
+
+.mealplans-container{
+    margin-left: 2%;
+}
+
+.mealplan-item {
+    padding: 2%;
+}
+
+.mealplan-wrapper {
+    width: 35%;
+}
+
+
